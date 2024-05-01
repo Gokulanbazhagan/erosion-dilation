@@ -88,11 +88,6 @@ plt.show()
 ```
 ## Output:
 
-### Display the input Image
-![image](https://github.com/Gokulanbazhagan/erosion-dilation/assets/119518996/368e851a-1fa5-4d08-8b36-2bd12f9d63b9)
-
-
-![image](https://github.com/Gokulanbazhagan/erosion-dilation/assets/119518996/4d6f252d-6297-4728-b107-caf8ba0c7a76)
 
 
 ## Result
